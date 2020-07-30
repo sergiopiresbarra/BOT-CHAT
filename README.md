@@ -1,2 +1,2 @@
 # BOT-CHAT
- bot-chatter  feito em python
+ chatter-bot feito em python
